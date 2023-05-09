@@ -1,7 +1,12 @@
+@import 'container.css';
+@import 'nav.css';
+@import 'form.css';
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-[x-cloak] {
+
+ [x-cloak] {
     display: none;
 }
+ 
