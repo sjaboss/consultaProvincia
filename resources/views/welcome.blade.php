@@ -3,7 +3,7 @@
     <div>
         <a href="/"
         class=" flex flex-col items-center justify-center  text-white cursor-pointer font-semiboldsemi h-full">
-        <img src="{{ asset('img/secretaria-de-salud-xs.jpg') }}" class=" w-full object-cover ">
+        <img src="{{ asset('img/logosjaboss.png') }}" class=" max-w-screen-sm object-cover ">
     </a>
     </div>
     <footer>

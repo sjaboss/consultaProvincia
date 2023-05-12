@@ -18,7 +18,7 @@ height: calc(100vh -4rem)
 
         <a href="/"
             class=" flex flex-col items-center justify-center px-4 text-white cursor-pointer font-semiboldsemi h-full">
-            <img src="{{ asset('img/javi.png') }}" class="block  h-14 w-auto">
+            <img src="{{ asset('img/100-1.png') }}" class="block  h-14 w-auto">
         </a>
 
         <div class="flex-1 hidden md:block">
