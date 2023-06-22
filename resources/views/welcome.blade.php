@@ -1,11 +1,11 @@
 <x-app-layout>
 
-    <div>
+   
         <a href="/"
-        class=" flex flex-col items-center justify-center  text-white cursor-pointer font-semiboldsemi h-full">
-        <img src="{{ asset('img/logosjaboss.png') }}" class=" w-full object-cover p-6 ">
+        class=" flex flex-col items-center justify-center  text-white cursor-pointer font-semiboldsemi ">
+        <img src="{{ asset('img/secretaria-de-salud-xs.jpg') }}" >
     </a>
-    </div>
+   
     <footer>
         <div class="flex justify-end pt-6 pb-6 gap-3">
             <a href="#">
